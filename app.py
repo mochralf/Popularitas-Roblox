@@ -10,7 +10,7 @@ st.set_page_config(page_title="Roblox Popularity Classifier 🌸", layout="wide"
 # PINK BLOSSOM HEADER
 # ==============================================
 st.markdown("""
-    <div style="background-color:#ffe6f0; padding:20px; border-radius:12px; border:2px solid #ffb3d2; margin-bottom:20px;">
+    <div style="background-color:#fef9e7; padding:20px; border-radius:12px; border:2px solid #ffb3d2; margin-bottom:20px;">
         <h1 style="color:#d14a7c; text-align:center;">🌸 Roblox Game Popularity Classifier 🌸</h1>
         <p style="color:#5a2a41; text-align:center;">Prediksi tingkat popularitas game Roblox menggunakan model SVM & K-NN.</p>
     </div>
